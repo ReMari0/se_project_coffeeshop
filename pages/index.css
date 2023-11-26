@@ -80,3 +80,8 @@
   gap: 100px;
   justify-content: center;
 }
+
+.resipes__video-captions {
+  display: flex;
+  justify-content: space-between;
+}
