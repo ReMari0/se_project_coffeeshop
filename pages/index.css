@@ -6,3 +6,8 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+.header {
+  display: flex;
+  padding: 30px 80px 40px;
+}
