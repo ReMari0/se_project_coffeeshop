@@ -76,5 +76,7 @@
 }
 
 .recipes__videos {
-  display: block;
+  display: flex;
+  gap: 100px;
+  justify-content: center;
 }
