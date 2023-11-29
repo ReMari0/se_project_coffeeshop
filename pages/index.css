@@ -19,6 +19,7 @@ html {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #ffffff;
 }
 
 .header__background {
@@ -26,7 +27,6 @@ html {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-color: #ffffff;
 }
 
 .nav {
@@ -153,7 +153,7 @@ html {
   margin: 80px 0 0;
 }
 
-.video {
+.recipe__video {
   display: flex;
   justify-content: space-between;
   width: 480px;
