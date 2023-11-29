@@ -153,7 +153,7 @@ html {
   margin: 80px 0 0;
 }
 
-.recipe__video {
+.video {
   display: flex;
   justify-content: space-between;
   width: 480px;
