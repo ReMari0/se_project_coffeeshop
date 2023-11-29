@@ -20,9 +20,6 @@ html {
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
-}
-
-.header__background {
   background-image: url(/images/background_header.svg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -115,15 +112,12 @@ html {
 }
 
 .recipes {
-  padding: 100px 80px 215px;
+  padding: 100px 80px;
   min-height: 720px;
   height: 100vh;
   display: flex;
   flex-direction: column;
   color: #ffffff;
-}
-
-.recipes__background {
   background-image: url(/images/background_recipes.svg);
   background-repeat: no-repeat;
   background-position: center;
