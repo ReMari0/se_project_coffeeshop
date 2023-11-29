@@ -19,7 +19,6 @@ html {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: #ffffff;
 }
 
 .header__background {
@@ -27,6 +26,7 @@ html {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  background-color: #ffffff;
 }
 
 .nav {
