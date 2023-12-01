@@ -245,13 +245,22 @@ html {
   color: #838383;
 }
 
+.input[type="checkbox"] {
+  border-radius: 2px;
+  background-color: #2f80ed;
+  background-image: url(/images/check.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 20px; /* Adjust the padding as needed */
+}
+
 .form__button {
   width: 100%;
   padding: 0;
   margin-bottom: 32px;
   height: 60px;
   box-sizing: border-box;
-  border-radius: 2px;
+  border-radius: 4px;
   transition: opacity 0.3s ease;
   font-family: Inter, Arial;
   font-style: normal;
