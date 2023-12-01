@@ -103,24 +103,29 @@
           <h2 class="reservation__title">Book A Table</h2>
           <form action="" class="form form__reservation">
             <fieldset class="form__fieldset">
-              <label for="Name" class="form__label">
+              <label for="name" class="form__label">
                 Name *<input
                   type="text"
                   class="form__input"
                   placeholder="Name-Surname"
-                  id="reservation"
+                  id="name"
                 />
               </label>
-              <label for="Number of guests" class="form__label">
+              <label for="numbers" class="form__label">
                 Number of guests *<input
                   type="number "
                   class="form__input"
                   placeholder="1-8"
+                  id="numbers"
                 />
               </label>
-              <label for="Date & Time" class="form__label">
+              <label for="schedule" class="form__label">
                 Date & time *
-                <input type="datetime-local" class="form__input" />
+                <input
+                  type="datetime-local"
+                  class="form__input"
+                  id="schedule"
+                />
               </label>
               <label for="email" class="form__label">
                 Your email *
@@ -128,6 +133,7 @@
                   type="email"
                   class="form__input"
                   placeholder="email@email.com"
+                  id="email"
                 />
               </label>
             </fieldset>
