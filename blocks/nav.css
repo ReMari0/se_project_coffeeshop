@@ -25,8 +25,9 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  transition: color 1s;
 }
 
 .nav__link:hover {
-  color: grey;
+  color: #2f80ed;
 }
