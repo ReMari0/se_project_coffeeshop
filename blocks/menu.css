@@ -43,11 +43,11 @@
   gap: 16px;
 }
 
-.card__list-items {
+.card {
   width: 540px;
 }
 
-.card__title {
+.menu__title {
   margin: 0 0 32px;
   font-family: "Inter";
   font-weight: bold;
