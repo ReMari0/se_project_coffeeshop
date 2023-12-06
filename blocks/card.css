@@ -11,14 +11,6 @@
   width: 540px;
 }
 
-.menu__title {
-  margin: 0 0 32px;
-  font-family: "Inter";
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
 .card__list-item {
   display: flex;
   font-family: "Noto Serif";
